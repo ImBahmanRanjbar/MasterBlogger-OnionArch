@@ -1,0 +1,15 @@
+D:\Projects\MasterBlogger\MB.Applicaton\bin\Debug\net9.0\MB.Applicaton.deps.json
+D:\Projects\MasterBlogger\MB.Applicaton\bin\Debug\net9.0\MB.Applicaton.dll
+D:\Projects\MasterBlogger\MB.Applicaton\bin\Debug\net9.0\MB.Applicaton.pdb
+D:\Projects\MasterBlogger\MB.Applicaton\bin\Debug\net9.0\MB.Application.Contracts.dll
+D:\Projects\MasterBlogger\MB.Applicaton\bin\Debug\net9.0\MB.Application.Contracts.pdb
+D:\Projects\MasterBlogger\MB.Applicaton\obj\Debug\net9.0\MB.Applicaton.csproj.AssemblyReference.cache
+D:\Projects\MasterBlogger\MB.Applicaton\obj\Debug\net9.0\MB.Applicaton.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\MasterBlogger\MB.Applicaton\obj\Debug\net9.0\MB.Applicaton.AssemblyInfoInputs.cache
+D:\Projects\MasterBlogger\MB.Applicaton\obj\Debug\net9.0\MB.Applicaton.AssemblyInfo.cs
+D:\Projects\MasterBlogger\MB.Applicaton\obj\Debug\net9.0\MB.Applicaton.csproj.CoreCompileInputs.cache
+D:\Projects\MasterBlogger\MB.Applicaton\obj\Debug\net9.0\MB.Appli.8F874FEC.Up2Date
+D:\Projects\MasterBlogger\MB.Applicaton\obj\Debug\net9.0\MB.Applicaton.dll
+D:\Projects\MasterBlogger\MB.Applicaton\obj\Debug\net9.0\refint\MB.Applicaton.dll
+D:\Projects\MasterBlogger\MB.Applicaton\obj\Debug\net9.0\MB.Applicaton.pdb
+D:\Projects\MasterBlogger\MB.Applicaton\obj\Debug\net9.0\ref\MB.Applicaton.dll

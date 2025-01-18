@@ -1,0 +1,17 @@
+D:\Projects\MasterBlogger\MB.Infrastructure.EFcore\bin\Debug\net9.0\MB.Infrastructure.EFcore.deps.json
+D:\Projects\MasterBlogger\MB.Infrastructure.EFcore\bin\Debug\net9.0\MB.Infrastructure.EFcore.runtimeconfig.json
+D:\Projects\MasterBlogger\MB.Infrastructure.EFcore\bin\Debug\net9.0\MB.Infrastructure.EFcore.dll
+D:\Projects\MasterBlogger\MB.Infrastructure.EFcore\bin\Debug\net9.0\MB.Infrastructure.EFcore.pdb
+D:\Projects\MasterBlogger\MB.Infrastructure.EFcore\bin\Debug\net9.0\MB.Domain.dll
+D:\Projects\MasterBlogger\MB.Infrastructure.EFcore\bin\Debug\net9.0\MB.Domain.pdb
+D:\Projects\MasterBlogger\MB.Infrastructure.EFcore\obj\Debug\net9.0\MB.Infrastructure.EFcore.csproj.AssemblyReference.cache
+D:\Projects\MasterBlogger\MB.Infrastructure.EFcore\obj\Debug\net9.0\MB.Infrastructure.EFcore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\MasterBlogger\MB.Infrastructure.EFcore\obj\Debug\net9.0\MB.Infrastructure.EFcore.AssemblyInfoInputs.cache
+D:\Projects\MasterBlogger\MB.Infrastructure.EFcore\obj\Debug\net9.0\MB.Infrastructure.EFcore.AssemblyInfo.cs
+D:\Projects\MasterBlogger\MB.Infrastructure.EFcore\obj\Debug\net9.0\MB.Infrastructure.EFcore.csproj.CoreCompileInputs.cache
+D:\Projects\MasterBlogger\MB.Infrastructure.EFcore\obj\Debug\net9.0\MB.Infra.9AB74698.Up2Date
+D:\Projects\MasterBlogger\MB.Infrastructure.EFcore\obj\Debug\net9.0\MB.Infrastructure.EFcore.dll
+D:\Projects\MasterBlogger\MB.Infrastructure.EFcore\obj\Debug\net9.0\refint\MB.Infrastructure.EFcore.dll
+D:\Projects\MasterBlogger\MB.Infrastructure.EFcore\obj\Debug\net9.0\MB.Infrastructure.EFcore.pdb
+D:\Projects\MasterBlogger\MB.Infrastructure.EFcore\obj\Debug\net9.0\MB.Infrastructure.EFcore.genruntimeconfig.cache
+D:\Projects\MasterBlogger\MB.Infrastructure.EFcore\obj\Debug\net9.0\ref\MB.Infrastructure.EFcore.dll
