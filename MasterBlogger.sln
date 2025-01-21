@@ -1,5 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35521.163 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MB.Domain", "MB.Domain\MB.Domain.csproj", "{473ED3A4-BC1E-438F-B169-5ADAD872A535}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MB.Application.Contracts", "MB.Application.Contracts\MB.Application.Contracts.csproj", "{15760D10-3EF4-4AA6-845F-FD25BA13AA93}"
@@ -7,6 +10,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MB.Applicaton", "MB.Applicaton\MB.Applicaton.csproj", "{D8BF3C89-D7A1-4C34-AA30-61B0F4060226}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MB.Infrastructure.EFcore", "MB.Infrastructure.EFcore\MB.Infrastructure.EFcore.csproj", "{E0646854-C8CD-4506-A9AB-5E732521398A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MB.Presentation.MVCCore", "MB.Presentation.MVCCore\MB.Presentation.MVCCore.csproj", "{A448BC18-B563-4DC0-9873-ECFB0654C681}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -30,5 +35,12 @@ Global
 		{E0646854-C8CD-4506-A9AB-5E732521398A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E0646854-C8CD-4506-A9AB-5E732521398A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E0646854-C8CD-4506-A9AB-5E732521398A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A448BC18-B563-4DC0-9873-ECFB0654C681}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A448BC18-B563-4DC0-9873-ECFB0654C681}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A448BC18-B563-4DC0-9873-ECFB0654C681}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A448BC18-B563-4DC0-9873-ECFB0654C681}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
 	EndGlobalSection
 EndGlobal

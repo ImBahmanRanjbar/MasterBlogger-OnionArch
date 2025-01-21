@@ -1,0 +1,8 @@
+D:\Projects\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\net9.0\MB.Presentation.MVCCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\net9.0\MB.Presentation.MVCCore.AssemblyInfoInputs.cache
+D:\Projects\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\net9.0\MB.Presentation.MVCCore.AssemblyInfo.cs
+D:\Projects\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\net9.0\MB.Presentation.MVCCore.csproj.CoreCompileInputs.cache
+D:\Projects\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\net9.0\MB.Presentation.MVCCore.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\net9.0\MB.Presentation.MVCCore.RazorAssemblyInfo.cache
+D:\Projects\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\net9.0\MB.Presentation.MVCCore.RazorAssemblyInfo.cs
+D:\Projects\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\net9.0\MB.Presentation.MVCCore.sourcelink.json

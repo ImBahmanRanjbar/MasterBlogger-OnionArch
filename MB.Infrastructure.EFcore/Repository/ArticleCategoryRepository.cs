@@ -2,6 +2,7 @@
 
 namespace MB.Infrastructure.EFcore.Repository;
 
+
 public class ArticleCategoryRepository:IArticleCategoryRepository
 {
     private readonly MasterBloggerContext _context;
@@ -9,6 +10,11 @@ public class ArticleCategoryRepository:IArticleCategoryRepository
     public ArticleCategoryRepository(MasterBloggerContext context)
     {
         _context = context;
+    }
+
+    public List<ArticleCategory> GetAll()
+    {
+        return _context.ArticleCategories.ToList();
     }
 
     public void Create(ArticleCategory entity)

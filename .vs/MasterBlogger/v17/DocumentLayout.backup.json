@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\MasterBlogger\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A448BC18-B563-4DC0-9873-ECFB0654C681}|MB.Presentation.MVCCore\\MB.Presentation.MVCCore.csproj|d:\\projects\\masterblogger\\mb.presentation.mvccore\\areas\\administrator\\articlecategorymanagement\\list.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A448BC18-B563-4DC0-9873-ECFB0654C681}|MB.Presentation.MVCCore\\MB.Presentation.MVCCore.csproj|solutionrelative:mb.presentation.mvccore\\areas\\administrator\\articlecategorymanagement\\list.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A448BC18-B563-4DC0-9873-ECFB0654C681}|MB.Presentation.MVCCore\\MB.Presentation.MVCCore.csproj|d:\\projects\\masterblogger\\mb.presentation.mvccore\\areas\\administrator\\articlecategorymanagement\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A448BC18-B563-4DC0-9873-ECFB0654C681}|MB.Presentation.MVCCore\\MB.Presentation.MVCCore.csproj|solutionrelative:mb.presentation.mvccore\\areas\\administrator\\articlecategorymanagement\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A448BC18-B563-4DC0-9873-ECFB0654C681}|MB.Presentation.MVCCore\\MB.Presentation.MVCCore.csproj|d:\\projects\\masterblogger\\mb.presentation.mvccore\\pages\\articledetails.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A448BC18-B563-4DC0-9873-ECFB0654C681}|MB.Presentation.MVCCore\\MB.Presentation.MVCCore.csproj|solutionrelative:mb.presentation.mvccore\\pages\\articledetails.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A448BC18-B563-4DC0-9873-ECFB0654C681}|MB.Presentation.MVCCore\\MB.Presentation.MVCCore.csproj|d:\\projects\\masterblogger\\mb.presentation.mvccore\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A448BC18-B563-4DC0-9873-ECFB0654C681}|MB.Presentation.MVCCore\\MB.Presentation.MVCCore.csproj|solutionrelative:mb.presentation.mvccore\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A448BC18-B563-4DC0-9873-ECFB0654C681}|MB.Presentation.MVCCore\\MB.Presentation.MVCCore.csproj|d:\\projects\\masterblogger\\mb.presentation.mvccore\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A448BC18-B563-4DC0-9873-ECFB0654C681}|MB.Presentation.MVCCore\\MB.Presentation.MVCCore.csproj|solutionrelative:mb.presentation.mvccore\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A448BC18-B563-4DC0-9873-ECFB0654C681}|MB.Presentation.MVCCore\\MB.Presentation.MVCCore.csproj|d:\\projects\\masterblogger\\mb.presentation.mvccore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A448BC18-B563-4DC0-9873-ECFB0654C681}|MB.Presentation.MVCCore\\MB.Presentation.MVCCore.csproj|solutionrelative:mb.presentation.mvccore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A448BC18-B563-4DC0-9873-ECFB0654C681}|MB.Presentation.MVCCore\\MB.Presentation.MVCCore.csproj|d:\\projects\\masterblogger\\mb.presentation.mvccore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A448BC18-B563-4DC0-9873-ECFB0654C681}|MB.Presentation.MVCCore\\MB.Presentation.MVCCore.csproj|solutionrelative:mb.presentation.mvccore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A448BC18-B563-4DC0-9873-ECFB0654C681}|MB.Presentation.MVCCore\\MB.Presentation.MVCCore.csproj|d:\\projects\\masterblogger\\mb.presentation.mvccore\\pages\\articledetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A448BC18-B563-4DC0-9873-ECFB0654C681}|MB.Presentation.MVCCore\\MB.Presentation.MVCCore.csproj|solutionrelative:mb.presentation.mvccore\\pages\\articledetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A448BC18-B563-4DC0-9873-ECFB0654C681}|MB.Presentation.MVCCore\\MB.Presentation.MVCCore.csproj|d:\\projects\\masterblogger\\mb.presentation.mvccore\\mb.presentation.mvccore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A448BC18-B563-4DC0-9873-ECFB0654C681}|MB.Presentation.MVCCore\\MB.Presentation.MVCCore.csproj|solutionrelative:mb.presentation.mvccore\\mb.presentation.mvccore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "List.cshtml.cs",
+              "DocumentMoniker": "D:\\Projects\\MasterBlogger\\MB.Presentation.MVCCore\\Areas\\Administrator\\ArticleCategoryManagement\\List.cshtml.cs",
+              "RelativeDocumentMoniker": "MB.Presentation.MVCCore\\Areas\\Administrator\\ArticleCategoryManagement\\List.cshtml.cs",
+              "ToolTip": "D:\\Projects\\MasterBlogger\\MB.Presentation.MVCCore\\Areas\\Administrator\\ArticleCategoryManagement\\List.cshtml.cs",
+              "RelativeToolTip": "MB.Presentation.MVCCore\\Areas\\Administrator\\ArticleCategoryManagement\\List.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T04:43:20.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "D:\\Projects\\MasterBlogger\\MB.Presentation.MVCCore\\Areas\\Administrator\\ArticleCategoryManagement\\List.cshtml",
+              "RelativeDocumentMoniker": "MB.Presentation.MVCCore\\Areas\\Administrator\\ArticleCategoryManagement\\List.cshtml",
+              "ToolTip": "D:\\Projects\\MasterBlogger\\MB.Presentation.MVCCore\\Areas\\Administrator\\ArticleCategoryManagement\\List.cshtml",
+              "RelativeToolTip": "MB.Presentation.MVCCore\\Areas\\Administrator\\ArticleCategoryManagement\\List.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-21T04:43:11.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Projects\\MasterBlogger\\MB.Presentation.MVCCore\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "MB.Presentation.MVCCore\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Projects\\MasterBlogger\\MB.Presentation.MVCCore\\Properties\\launchSettings.json",
+              "RelativeToolTip": "MB.Presentation.MVCCore\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-21T04:38:38.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Projects\\MasterBlogger\\MB.Presentation.MVCCore\\appsettings.json",
+              "RelativeDocumentMoniker": "MB.Presentation.MVCCore\\appsettings.json",
+              "ToolTip": "D:\\Projects\\MasterBlogger\\MB.Presentation.MVCCore\\appsettings.json",
+              "RelativeToolTip": "MB.Presentation.MVCCore\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-21T04:36:53.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\MasterBlogger\\MB.Presentation.MVCCore\\Program.cs",
+              "RelativeDocumentMoniker": "MB.Presentation.MVCCore\\Program.cs",
+              "ToolTip": "D:\\Projects\\MasterBlogger\\MB.Presentation.MVCCore\\Program.cs",
+              "RelativeToolTip": "MB.Presentation.MVCCore\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T04:36:27.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MB.Presentation.MVCCore",
+              "DocumentMoniker": "D:\\Projects\\MasterBlogger\\MB.Presentation.MVCCore\\MB.Presentation.MVCCore.csproj",
+              "RelativeDocumentMoniker": "MB.Presentation.MVCCore\\MB.Presentation.MVCCore.csproj",
+              "ToolTip": "D:\\Projects\\MasterBlogger\\MB.Presentation.MVCCore\\MB.Presentation.MVCCore.csproj",
+              "RelativeToolTip": "MB.Presentation.MVCCore\\MB.Presentation.MVCCore.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-21T04:32:49.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ArticleDetails.cshtml",
+              "DocumentMoniker": "D:\\Projects\\MasterBlogger\\MB.Presentation.MVCCore\\Pages\\ArticleDetails.cshtml",
+              "RelativeDocumentMoniker": "MB.Presentation.MVCCore\\Pages\\ArticleDetails.cshtml",
+              "ToolTip": "D:\\Projects\\MasterBlogger\\MB.Presentation.MVCCore\\Pages\\ArticleDetails.cshtml",
+              "RelativeToolTip": "MB.Presentation.MVCCore\\Pages\\ArticleDetails.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-21T04:33:25.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "D:\\Projects\\MasterBlogger\\MB.Presentation.MVCCore\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "MB.Presentation.MVCCore\\Pages\\Index.cshtml.cs",
+              "ToolTip": "D:\\Projects\\MasterBlogger\\MB.Presentation.MVCCore\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "MB.Presentation.MVCCore\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T04:33:01.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ArticleDetails.cshtml.cs",
+              "DocumentMoniker": "D:\\Projects\\MasterBlogger\\MB.Presentation.MVCCore\\Pages\\ArticleDetails.cshtml.cs",
+              "RelativeDocumentMoniker": "MB.Presentation.MVCCore\\Pages\\ArticleDetails.cshtml.cs",
+              "ToolTip": "D:\\Projects\\MasterBlogger\\MB.Presentation.MVCCore\\Pages\\ArticleDetails.cshtml.cs",
+              "RelativeToolTip": "MB.Presentation.MVCCore\\Pages\\ArticleDetails.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T04:32:00.615Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
